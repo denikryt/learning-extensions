@@ -1,0 +1,15 @@
+/* Define your dialog window styles here */
+#dialogContent {
+  width: 200px;
+  height: 300px;
+  background-color: #29d83d;
+  /* position: fixed;
+  top: 0;
+  left: 0; */
+  z-index : 9999;
+  border: 2px solid black;
+  /* border-color: black; */
+  border-radius: 10px;
+  
+  /* Add your custom styles here */
+}

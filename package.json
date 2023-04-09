@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@vitalets/google-translate-api": "^9.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.78.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
